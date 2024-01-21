@@ -17,7 +17,35 @@ h2,h3,h4.h5,h6,.h1,.h2,.h3,.h4{
 }
 
 
+body{
+    background-color: var(--giallo);
+}
+
+nav{
+    background-color: var(--verde);
+    color: var(--bianco);
+}
 
 
+.nav-link ,.navbar-brand{
+    color: var(--bianco);
+    margin:20px;
+}
 
+
+.bandiera img{
+    height: 50px;
+    border: solid 1px var(--blu);
+    box-shadow: 2px 2px 4px 2px rgba(239, 225, 7,0.5) ;
+    border-radius: 10%;
+} 
+.carousel{
+
+}
+
+.carousel-item img{
+    transform-style: preserve-3d;
+    height: 70vh;
+    border: solid var(--blu);
     
+}
