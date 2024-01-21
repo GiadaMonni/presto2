@@ -1,0 +1,23 @@
+:root{
+    --giallo: rgb(239, 225, 7);
+    --verde: rgb(46, 175, 74);
+    --blu: rgb(27, 41, 89);
+    --bianco: rgb(244,244,244);
+} 
+*{
+    font-family: 'Questrial',sans-serif;
+}
+
+h1{
+    font-family: 'Pacifico' , sans-serif;
+}
+
+h2,h3,h4.h5,h6,.h1,.h2,.h3,.h4{
+    font-family: 'Caveat' , sans-serif ;
+}
+
+
+
+
+
+    
